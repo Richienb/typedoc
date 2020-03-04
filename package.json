@@ -1,6 +1,6 @@
 {
 	"name": "@richienb/typedoc",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"main": "typedoc.json",
 	"repository": "https://github.com/Richienb/typedoc.git",
 	"author": "Richie Bendall <richiebendall@gmail.com>",
