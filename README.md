@@ -14,6 +14,6 @@ In your `typedoc.json`:
 
 ```json
 {
-	"extends": "@richienb/typedoc"
+	"extends": "node_modules/@richienb/typedoc"
 }
 ```
