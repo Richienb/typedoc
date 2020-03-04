@@ -15,6 +15,9 @@
 		"config",
 		"configuration"
 	],
+	"peerDependencies": {
+		"typedoc": ">=0.16.11"
+	},
 	"publishConfig": {
 		"access": "public"
 	}
