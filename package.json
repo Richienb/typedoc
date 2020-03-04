@@ -1,0 +1,21 @@
+{
+	"name": "@richienb/typedoc",
+	"version": "0.0.0",
+	"main": "typedoc.json",
+	"repository": "https://github.com/Richienb/typedoc.git",
+	"author": "Richie Bendall <richiebendall@gmail.com>",
+	"license": "MIT",
+	"files": [
+		"typedoc.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	],
+	"publishConfig": {
+		"access": "public"
+	}
+}
